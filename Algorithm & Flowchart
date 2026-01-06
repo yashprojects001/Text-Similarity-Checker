@@ -1,0 +1,24 @@
+Algorithm:
+1)Start
+2)Read first text
+3)Read second text
+4)Convert both texts into TF-IDF vectors
+5)Calculate cosine similarity between vectors
+6)Convert similarity score into percentage
+7)Display result
+8)Stop
+
+Flowchart:
+Start
+  ↓
+Input Text 1 & Text 2
+  ↓
+TF-IDF Vectorization
+  ↓
+Cosine Similarity Calculation
+  ↓
+Convert to Percentage
+  ↓
+Display Similarity
+  ↓
+End
